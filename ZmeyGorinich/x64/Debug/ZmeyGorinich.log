@@ -1,0 +1,36 @@
+﻿  ZmeyGorinich.cpp
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(19,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(64,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,38): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,38): warning C4838:         with
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,38): warning C4838:         [
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,38): warning C4838:             _Ty=int
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,38): warning C4838:         ]
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,49): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,49): warning C4838:         with
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,49): warning C4838:         [
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,49): warning C4838:             _Ty=int
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(74,49): warning C4838:         ]
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,42): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,42): warning C4838:         with
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,42): warning C4838:         [
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,42): warning C4838:             _Ty=int
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,42): warning C4838:         ]
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,53): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,53): warning C4838:         with
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,53): warning C4838:         [
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,53): warning C4838:             _Ty=int
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(78,53): warning C4838:         ]
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(94,31): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(94,39): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,41): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,41): warning C4838:         with
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,41): warning C4838:         [
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,41): warning C4838:             _Ty=int
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,41): warning C4838:         ]
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,56): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,56): warning C4838:         with
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,56): warning C4838:         [
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,56): warning C4838:             _Ty=int
+D:\Тютин\работы\ZmeyGorinich\ZmeyGorinich\ZmeyGorinich.cpp(106,56): warning C4838:         ]
+  ZmeyGorinich.vcxproj -> D:\Тютин\работы\ZmeyGorinich\x64\Debug\ZmeyGorinich.exe
